@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1154" />
-    <option name="width" value="774" />
-    <option name="height" value="1061" />
+    <option name="x" value="442" />
+    <option name="y" value="21" />
+    <option name="width" value="1173" />
+    <option name="height" value="1047" />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562547584697" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562549755520" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
 </project>
